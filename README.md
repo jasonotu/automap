@@ -13,7 +13,7 @@ Base description: Define and implement a process to remediate application securi
 Target description: Manage the security life cycle of in-house developed, hosted, or acquired software to prevent, detect, and remediate security weaknesses before they can impact the enterprise.
 
 DSP-01 maps to CISC-3
-Base description: Establish, document, approve, communicate, apply, evaluate and maintain policies and procedures for the classification, protection and handling of data throughout its lifecycle, and according to all applicable laws and regulations, standards, and risk level. Review and update the policies and procedures at least annually. 
+Base description: Define, implement and evaluate processes, procedures and technical measures for the transfer and sub-processing of personal data within the service supply chain, according to any applicable laws and regulations. 
 Target description: Develop processes and technical controls to identify, classify, securely handle, retain, and dispose of data.
 
 ...
