@@ -12,7 +12,7 @@ AIS-07 maps to CISC-16
 Base description: Define and implement a process to remediate application security vulnerabilities, automating remediation when possible. 
 Target description: Manage the security life cycle of in-house developed, hosted, or acquired software to prevent, detect, and remediate security weaknesses before they can impact the enterprise.
 
-DSP-01 maps to CISC-3
+DSP-17 maps to CISC-3
 Base description: Define and implement, processes, procedures and technical measures to protect sensitive data throughout it's lifecycle. 
 Target description: Develop processes and technical controls to identify, classify, securely handle, retain, and dispose of data.
 
